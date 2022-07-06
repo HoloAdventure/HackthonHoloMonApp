@@ -1,0 +1,24 @@
+{
+    "name": "HoloMonApp.Content.XRPlatform",
+    "rootNamespace": "",
+    "references": [
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:a7a4c34601384f9389d5c4207f3c6331",
+        "GUID:8b7cc3e86d77403b8b984c08cbaeaf8f",
+        "GUID:7404ed9ad29ad3844ac3a261c8d45b60",
+        "GUID:56255bd5d851a6243b63cb370cfc40b1",
+        "GUID:d59347cf3d47ac148925927618efb1b5",
+        "GUID:1cf1ca54739277a46b22d9c01783cb85"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
