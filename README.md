@@ -10,3 +10,4 @@ A link to a video explaining the application is below.
 https://www.youtube.com/watch?v=sV8kFAHjP2g
 
 When checking the operation of the application in UnityProject, go to [File -> Build Settings...] and change the [Platform] to [Universal Windows Platform].
+HoloMon sleeps between 9:00 PM and 6:00 AM.
