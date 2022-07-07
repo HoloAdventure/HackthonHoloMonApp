@@ -7159,6 +7159,7 @@ MonoBehaviour:
   overrideAnimation: 1
   lerpFloat: 0
   lerpFrameDiff: 0.01
+  lerpFloatMax: 1
 --- !u!1 &8044543739660803012
 GameObject:
   m_ObjectHideFlags: 0

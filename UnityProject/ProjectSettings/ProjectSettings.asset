@@ -780,9 +780,9 @@ PlayerSettings:
   platformCapabilities:
     WindowsStoreApps:
       GazeInput: True
-      InternetClientServer: True
+      InternetClientServer: False
       SpatialPerception: True
-      InternetClient: True
+      InternetClient: False
       WebCam: True
       Microphone: True
   metroTargetDeviceFamilies: {}
