@@ -77,7 +77,7 @@ namespace HoloMonApp.Content.Character.Behave.Purpose.Dance
 
             // TODO: この箇所で増加処理を行うべきかは要検討
             // タスクを終了したら元気度を下げる
-            p_PurposeReference.Control.ConditionsLifeAPI.AddStamina(-10);
+            p_PurposeReference.Control.ConditionsLifeAPI.AddStamina(-5);
 
             return true;
         }

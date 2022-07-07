@@ -257,7 +257,7 @@ namespace HoloMonApp.Content.Character.Behave.Purpose.CatchBall
 
             // TODO: この箇所で増加処理を行うべきかは要検討
             // タスクを終了したら元気度を下げる
-            p_PurposeReference.Control.ConditionsLifeAPI.AddStamina(-25);
+            p_PurposeReference.Control.ConditionsLifeAPI.AddStamina(-10);
 
             return true;
         }

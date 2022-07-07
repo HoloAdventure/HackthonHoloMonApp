@@ -127,7 +127,7 @@ namespace HoloMonApp.Content.Character.Behave.Purpose.MoveTracking
                     }
 
                     // 目的を達成したら元気度を下げる
-                    p_PurposeReference.Control.ConditionsLifeAPI.AddStamina(-10);
+                    p_PurposeReference.Control.ConditionsLifeAPI.AddStamina(-5);
 
                     // 追跡ループを抜ける
                     isArrived = true;
